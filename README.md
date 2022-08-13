@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![Anand K. Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=humailsaleem123&show_icons=true&count_private=true)](https://github.com/humailsaleem123)
+[![Muhammad Humail Saleem Mainali GitHub Stats](https://github-readme-stats.vercel.app/api?username=humailsaleem123&show_icons=true&count_private=true)](https://github.com/humailsaleem123)
 
 ### Github Repos
 
