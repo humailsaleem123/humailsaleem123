@@ -33,8 +33,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=humailsaleem123&repo=React-ShoppingStore&show_owner=true)](https://github.com/humailsaleem123/React-ShoppingStore)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=humailsaleem123&repo=Balance-Sheet-React&show_owner=true)](https://github.com/humailsaleem123/Balance-Sheet-React)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=humailsaleem123&theme=midnight-purple&repo=React-ShoppingStore&show_owner=true)](https://github.com/humailsaleem123/React-ShoppingStore)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=humailsaleem123&theme=midnight-purple&repo=Balance-Sheet-React&show_owner=true)](https://github.com/humailsaleem123/Balance-Sheet-React)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
