@@ -47,8 +47,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 <a href="https://www.linkedin.com/in/humail-saleem-a30078246/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@humailsaleem-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/19606711/humail-saleem?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Humail%20Saleem-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:anandmainali5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:m.humailsaleem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.humailsaleem@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@humailsaleem123](https://github.com/humailsaleem123/)
