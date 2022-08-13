@@ -7,7 +7,7 @@
 > Web Developer at [Zealous Technologies](https://zealoustechnologies.com/)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="Humail Saleem" />
 
 <div>
  <p>
