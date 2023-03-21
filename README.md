@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Muhammad Humail Saleem](https://www.linkedin.com/in/humail-saleem-a30078246/)
-> Web Developer at [Zealous Technologies](https://zealoustechnologies.com/)
+> Web Developer at [Cognitive Technologies](https://www.cogntec.com/)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="Humail Saleem" />
