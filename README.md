@@ -51,8 +51,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://stackoverflow.com/users/19606711/humail-saleem?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Humail%20Saleem-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:m.humailsaleem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.humailsaleem@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-<div style="float:right; width:8%">
- 
+<div style="float: right; width:8%">
 <img align="right" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
+ 
 </div>
 ⭐️ From [@humailsaleem123](https://github.com/humailsaleem123/)
