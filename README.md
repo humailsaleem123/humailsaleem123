@@ -9,7 +9,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali&style=for-the-badge" alt="Humail Saleem" />
 
-<img src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
 <div>
  <p>
 I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
@@ -53,5 +52,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="mailto:m.humailsaleem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.humailsaleem@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
 
 ⭐️ From [@humailsaleem123](https://github.com/humailsaleem123/)
