@@ -52,6 +52,6 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="mailto:m.humailsaleem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.humailsaleem@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-<img style="display:flex; justify-content:flex-end;" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
+<img align="right" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
 
 ⭐️ From [@humailsaleem123](https://github.com/humailsaleem123/)
