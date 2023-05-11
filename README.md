@@ -7,7 +7,7 @@
 > Web Developer at [Cognitive Technologies](https://www.cogntec.com/)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="Humail Saleem" />
+<img src="https://komarev.com/ghpvc/?username=anandmainali&style=for-the-badge" alt="Humail Saleem" />
 
 <div>
  <p>
