@@ -19,6 +19,9 @@ I have excellent design & coding skills, as well as an ability to convert requir
  ### [CHECK IT OUT MY PORTFOLIO](https://humailsaleem-portfolio123.web.app/)
 </div>
 
+<div style="float: right;">
+<img style="width:50%" align="right" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
+</div>
 ### Programming Languages 🌐
 
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="REACT" width="24">](https://reactjs.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="ANGULAR" width="38">](https://angular.io/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NODE" width="24">](https://nodejs.org/en/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="24">](https://html.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="24">](https://www.w3schools.com/css/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://www.w3schools.com/js/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" width="24">](https://jquery.com/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="jQuery" width="24">](https://dotnet.microsoft.com/en-us/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="jQuery" width="24">](https://www.java.com/en/)
@@ -51,8 +54,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a href="https://stackoverflow.com/users/19606711/humail-saleem?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Humail%20Saleem-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:m.humailsaleem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-m.humailsaleem@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-<div style="float: right;">
-<img style="width:50%" align="right" src="https://user-images.githubusercontent.com/40695548/147872428-0f19e522-1bda-45cd-a5ab-f8fcdc1797be.gif" alt="Humail Saleem" />
- 
-</div>
+
 ⭐️ From [@humailsaleem123](https://github.com/humailsaleem123/)
