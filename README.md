@@ -4,7 +4,7 @@
 </p>
 
 ### Hi there 👋 I'm [Muhammad Humail Saleem](https://www.linkedin.com/in/humail-saleem-a30078246/)
-> Web Developer at [RaaWee K12 Inc.]([https://www.cogntec.com/](https://raaweek12.com/))
+> Web Developer at [RaaWee K12 Inc.]([https://www.cogntec.com/])
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali&style=for-the-badge" alt="Humail Saleem" />
